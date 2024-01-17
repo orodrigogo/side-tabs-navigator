@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "leftnav",
-    "slug": "leftnav",
-    "scheme": "leftnav",
+    "name": "side-tabs-navigator",
+    "slug": "side-tabs-navigator",
+    "scheme": "side-tabs-navigator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
